@@ -3,4 +3,4 @@
  
 ## 5주차 실습화면 (2022-03-31)
 
-<img width="" height="" src=./hhi124/5주차실습화면.png></img>
+<img width="1256" alt="5주차실습화면" src="https://user-images.githubusercontent.com/90546741/160981272-78330e6f-5e4f-40bb-8d0d-85fac3d973dd.png">
